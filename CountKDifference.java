@@ -17,6 +17,7 @@ public class CountKDifference {
 
         return pairs;
     }
+
     public static void main(String[] args) {
         CountKDifference solution = new CountKDifference();
 
